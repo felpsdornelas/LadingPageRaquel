@@ -1,0 +1,32 @@
+.secao-lugares {
+     background: #FAEBDF; 
+     margin: auto;
+}
+
+.secao-lugares > div {
+     width: 1200px;
+     margin: auto;
+     border: 1px solid #000000;
+}
+
+.container {
+     width: 1200px;
+     margin: auto;
+     display: flex;
+     flex-direction: row;
+     gap: 50px;
+     justify-content: center;
+}
+
+.secao-lugares h2 {
+     padding-bottom: 38px;
+     color: #008080;
+     text-align: center;
+     font-family: Poppins;
+     font-size: 50px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: normal;
+     text-transform: uppercase;
+}
+

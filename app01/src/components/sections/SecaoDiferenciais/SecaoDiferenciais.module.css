@@ -1,0 +1,35 @@
+* {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+}
+
+.secao-diferenciais {
+     background-color: #008080;  
+     margin: auto;
+     height: 754px; 
+}
+
+.secao-diferenciais > div {
+    margin: auto;
+    width: 1200px;
+    height: 754px;
+    border: 1px solid black;
+}
+
+section h2 {
+     padding-top: 38px;
+     color: #FAEBDF;
+     text-align: center;
+     font-family: Poppins;
+     font-size: 50px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: normal;
+     text-transform: uppercase;
+}
+
+.container-diferenciais {
+     margin-top: 70px;
+     display: flex; 
+}
