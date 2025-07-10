@@ -12,7 +12,7 @@ export default function BoxClient({
                {/* Lado esquerdo */}
                <div>
                     <h3>{NameClient}</h3>
-                    <div></div>
+                    <img src="\public\img\Estrelas.png" alt="agrupação de estrelas, avaliação" />
                     <p>{description}</p>
                </div>
 
