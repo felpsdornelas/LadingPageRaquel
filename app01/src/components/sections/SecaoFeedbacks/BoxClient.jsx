@@ -17,8 +17,8 @@ export default function BoxClient({
                </div>
 
                {/* Lado direito */}
-               <div>
-                    <img src={srcImgClient} alt={altImg} />
+               <div className={styles["div-img-client"]}>
+                    <img className={styles["img-client"]} src={srcImgClient} alt={altImg} />
                </div>
           </div>
      );

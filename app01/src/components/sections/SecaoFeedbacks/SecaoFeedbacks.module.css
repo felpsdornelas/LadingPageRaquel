@@ -1,6 +1,7 @@
 .secao-feedbacks {
      background: #0281B5; 
-     margin: auto;
+     margin: auto;  
+     
 } 
 
 .secao-feedbacks > div {
@@ -8,3 +9,8 @@
      margin: auto;
      border: 1px solid #000000;
 } 
+
+.secao-feedbacks > div > h2 {
+     padding: 80px 0px;
+
+}
